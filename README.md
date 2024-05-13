@@ -19,6 +19,9 @@
 
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="150">](https://www.python.org/)
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" width="100">](https://en.wikipedia.org/wiki/SQL)
+## My LeetCode Profile:
+
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Syed_Ashiqur_Rahman&show_icons=true&theme=dark&hide=contribs,prs&count_private=true&include_all_commits=true)](https://leetcode.com/Syed_Ashiqur_Rahman/)
 
 ## My GitHub Stats:
 
