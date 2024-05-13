@@ -7,7 +7,7 @@
 - I have completed my [Higher Secondary Certificate - HSC](https://en.wikipedia.org/wiki/Higher_Secondary_Certificate) from [Shahid Syed Nazrul Islam College Mymensingh](https://ssnic.edu.bd/).
 - I have completed my [Secondary School Certificate - SSC](https://en.wikipedia.org/wiki/Secondary_School_Certificate) from [Purbadhala JM Pilot High School](https://oedubd.com/).
 ## Interests:
-  + Solving Problems at leetcode
+  - Solving Problems at leetcode
   - Data Science
   - Machine Learning
 ## Skills:
@@ -19,7 +19,7 @@
 
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="150">](https://www.python.org/)
 [<img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" width="100">](https://en.wikipedia.org/wiki/SQL)
-## My LeetCode Profile:
+## My LeetCode Process:
 
 [![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Syed_Ashiqur_Rahman&show_icons=true&theme=dark&hide=contribs,prs&count_private=true&include_all_commits=true)](https://leetcode.com/Syed_Ashiqur_Rahman/)
 
